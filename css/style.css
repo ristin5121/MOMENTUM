@@ -72,7 +72,7 @@ input:focus::placeholder{
 }
 ul {list-style-position: inside; margin:0;padding:0;}
 #weather{
-    line-height: 5;
+    line-height: 7;
     font-size: 20px;
 }
 #button{
