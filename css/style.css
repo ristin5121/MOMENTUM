@@ -28,12 +28,12 @@ img{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #clock{
-    font-size: 100px;
-    line-height: 70px;
+    font-size: 200px;
+    line-height: 0px;
 }
 #greeting{
-    font-size: 70px;
-    line-height: 1;
+    font-size: 80px;
+    line-height: 50px;
 }
 input{
     border-top: none;
@@ -71,3 +71,19 @@ input:focus::placeholder{
     font-size: 20px;
 }
 ul {list-style-position: inside; margin:0;padding:0;}
+#weather{
+    line-height: 5;
+    font-size: 20px;
+}
+#button{
+    border-radius: 10px;
+}
+li{
+    font-size: 30px;
+}
+button{
+    border-radius: 10px;
+    margin-left: 10px;
+    border: none;
+    background-color: white;
+}
