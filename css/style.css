@@ -7,7 +7,7 @@ body{
 }
 img{
     height: 110vh;
-    width: 100vw;
+    width: 110vw;
     display: flex;
     position: relative;
     margin-left: -10px;
